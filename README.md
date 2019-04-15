@@ -1,1 +1,1 @@
-# DWM-Mini-Project
+# dwm_mini_project
